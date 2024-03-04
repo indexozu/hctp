@@ -1,5 +1,5 @@
 # HCTP - **H**acettepe **C**epte **T**akip **P**latformu
-HCTP, Hacettepe Üniversitesi'nin çetrefilli site tasarımı ve verilere ulaşım yollarının önüne geçmek adına tasarlanması planan bir web uygulamasıdır.</br>
+HCTP, Hacettepe Üniversitesi'nin çetrefilli site tasarımı ve verilere ulaşım yollarının önüne geçmek için tasarlanan bir web uygulamasıdır.</br>
 Web uygulaması olarak tasarlanması tüm cihazlarda rahatça erişilebilir ve çalıştırılabilir olması üzerine olup, dilenirse tarayıcıların "ana ekrana ekle" seçeeği ile bir uygulama olarak da cihazlarda tutulabilecektir.</br>
 
 ## Uygulama özellikleri (İlk hedefler)
