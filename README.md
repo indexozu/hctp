@@ -9,7 +9,7 @@ Web uygulaması olarak tasarlanması tüm cihazlarda rahatça erişilebilir ve �
 • Sınav notları(nın bir tablo halinde kolaylıkla kaydedilebileceği bir alan)</br>
 
 ## Geliştirilme prensipleri
-HCTP'nin temelinde hafiflik, cevap odaklılık, tutarlılık ve pratiklik prensipleri yatıyor;</br>
+HCTP'nin temelinde hafiflik, cevap odaklılık, tutarlılık ve pratiklik prensipleri yatıyor;</br></br>
 • Hafif: Bu uygulamayı yoğun animasyonlar veya çetrefilli tasarımlar, yönergeler ile ağırlaştırma hedefimiz yok.</br>
 • Cevap odaklı: Bulunan ve eklenecek özellikler Hacettepelilerin sorularına cevap verebilmeli.</br>
 • Tutarlı: HCTP Mayer'in çoklu ortam tasarım ilkelerince tutarlı bir arayüz ile hizmet verecek.</br>
